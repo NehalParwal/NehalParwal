@@ -2,7 +2,7 @@
 👋 Hi, I'm Nehal Parwal
 
 <p align="center">
-  <img src=["https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Integrated+MCA+Student;Passionate+Programmer;Problem+Solver;DSA+Learner;Future+Software+Developer+%F0%9F%9A%80"](https://i.pinimg.com/originals/a1/ee/94/a1ee94780c268900bb8e322a48d147f7.jpg) alt="Typing SVG" />
+  <img src=["https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Integrated+MCA+Student;Passionate+Programmer;Problem+Solver;DSA+Learner;Future+Software+Developer+%F0%9F%9A%80"](https://i.pinimg.com/originals/a1/ee/94/a1ee94780c268900bb8e322a48d147f7.jpg) alt="Typing SVG" />hsddh
 </p>
 
 <p align="center">
