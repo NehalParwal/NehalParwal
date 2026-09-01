@@ -2,7 +2,7 @@
 👋 Hi, I'm Nehal Parwal
 
 <p align="center">
-  <img src="xyz.pvt" alt="This is panda image" />hsddh
+  <img src="xyz.pvt" alt="This is panda image" />
 </p>
 
 <p align="center">
