@@ -1,5 +1,5 @@
 ## Hi there 👋
-👋 Hi, I'm a Programmer & Problem Solver
+👋 Hi, I'm Nehal Parwal
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Integrated+MCA+Student;Passionate+Programmer;Problem+Solver;DSA+Learner;Future+Software+Developer+%F0%9F%9A%80" alt="Typing SVG" />
