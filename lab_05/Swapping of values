@@ -1,0 +1,17 @@
+#include <stdio.h>
+
+int main()
+{
+    int A = 5, B = 10;
+    int C;
+    printf("Nehal Parwal\n");
+    printf("value of A is =  %d and Value of B is = %d\n", A, B);
+
+    C = A;
+    A = B;
+    B = C;
+
+    printf("value of A is %d and Value of B is %d\n", A, B);
+
+    return 0;
+}
