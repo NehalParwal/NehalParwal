@@ -2,11 +2,12 @@
 int main()
 {
 int a, b, product;
-printf("Enter first number: ");
-scanf("%d", &a);
-printf("Enter second number: ");
-scanf("%d", &b);
+  printf("Nehal Parwal");
+  printf("Enter first number: ");
+  scanf("%d", &a);
+  printf("Enter second number: ");
+  scanf("%d", &b);
 product = a * b;
-printf("product = %d" product);
-return 0;
+  printf("product = %d" product);
+  return 0;
 }
