@@ -1,14 +1,16 @@
-#include <stdio.h>
+#include<stdio.h>
+#include<conio.h>
 int main()
 {
-int x, y, sum;
-printf("Nehal Parwal\n");
-printf("Enter first number: ");
-scanf("%d" , &a);
-printf("Enter second number: ");
-scanf("%d" , &b);
-sum = a + b;
-printf("sum = %d", sum);
-return 0;
+    int a;
+    int b;
+    int c;
+    printf("Nehal Parwal\n");
+    printf("Enter value of a:");
+    scanf("%d",&a);
+    printf("Enter value of b:");
+    scanf("%d",&b);
+    c=a+b;
+    printf("%d",c);
+    return 0;
 }
-
