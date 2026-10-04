@@ -2,7 +2,7 @@
 int main()
 {
 float num1, num2, quotient;
-  printf("Nehal Parwal");
+  printf("Nehal Parwal\n");
   printf("Enter first number: ");
   scanf("%f", &num1);
   printf("Enter second number: ");
